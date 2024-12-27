@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64 aquasec/trivy:latest
+--platform=linux/arm64 postgres:14-alpine
